@@ -17,7 +17,8 @@
 
 ***
 
-<p align="center"> [Team Kronix (Free Bots Codes And Alot More)](https://discord.gg/teamkronix) </p>
+<p align="center"> Team Kronix </p>
+<p align="center"> An Optimistic Community of Developers, Based around iShowKronix on youtube!, Endeavouring to Learn as we grow. </p>
 <p align="center"> <a href="https://discord.gg/teamkronix"><img src="https://discord.com/api/guilds/1063452003910553731/widget.png?style=banner2"></a> </p>
 
 ***
