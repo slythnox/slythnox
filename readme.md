@@ -12,8 +12,6 @@
 ***
 
 - :telescope: Founder Of [**Team Kronix**](https://discord.gg/teamkronix)
-
-***
 <br/>
 
 ***
