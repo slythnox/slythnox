@@ -8,12 +8,6 @@
   </div>
 </div>
 
-***
-<div align="center">
-<img src="https://discord.c99.nl/widget/theme-2/747321055319949312.png">
-</div>
-***
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fr.akshat&label=Profile%20views&color=00FFFF&style=flat" alt="fr.akshat" /> </p>
 
 ***
 
