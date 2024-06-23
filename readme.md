@@ -18,27 +18,27 @@
 
 ***
 
-## [Team Kronix (Free Bots Codes And Alot More)](https://discord.gg/teamkronix)
+## [            Team Kronix (Free Bots Codes And Alot More)](https://discord.gg/teamkronix)
 <p align="center"> <a href="https://discord.gg/teamkronix"><img src="https://discord.com/api/guilds/1063452003910553731/widget.png?style=banner2"></a> </p>
 
 ***
 
 <p align="center">
-  <b>Stuff that I am currently learning :</b>
+  <b> - :seedling: Stuff that I am currently learning :</b>
   <br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <br><br>
-  <b>Stuff that I know ( Completely / Partially ) :</b>
+  <b> - :seedling: Stuff that I know ( Completely / Partially ) :</b>
   <br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <br><br>
-  <b>Software and tools that I regularly / frequently use :</b>
+  <b> - :seedling: Software and tools that I regularly / frequently use :</b>
   <br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
