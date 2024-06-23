@@ -7,23 +7,24 @@
     </p>
   </div>
 </div>
-
+***
 <p align="center">
   <a href="https://discord.gg/team-kronix-1063452003910553731" target="_blank"> 
     <img src="https://discordapp.com/api/guilds/1063452003910553731/widget.png?style=banner2" alt="Discord Banner"/>
   </a>
 </p>
+***
 <div align="center">
-<img src="https://discord.c99.nl/widget/theme-2/663442537222242306.png">
+<img src="https://discord.c99.nl/widget/theme-2/747321055319949312.png">
 </div>
-
+***
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fr.akshat&label=Profile%20views&color=00FFFF&style=flat" alt="fr.akshat" /> </p>
 
 ***
 
 - :telescope: I'm Currently Working on a [**Free Discord Bot Codes For All Users!**](https://discord.gg/teamkronix)
 
-
+***
 <p align="center">
   <b>Stuff that I am currently learning :</b>
   <br><br>
