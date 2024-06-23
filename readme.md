@@ -12,6 +12,8 @@
 ***
 
 - :telescope: Founder Of [**Team Kronix**](https://discord.gg/teamkronix)
+- :telescope: Youtube [**iShowKronix**](https://www.youtube.com/@kronixx2077)
+- :telescope: Founder & Developer Of [**RareRabbit**](https://discord.com/oauth2/authorize?client_id=1242460333025787926)
 <br/>
 
 ***
