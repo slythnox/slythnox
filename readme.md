@@ -11,9 +11,18 @@
 
 ***
 
-- :telescope: I'm Currently Working on a [**Free Discord Bot Codes For All Users!**](https://discord.gg/teamkronix)
+- :telescope: Founder Of [**Team Kronix**](https://discord.gg/teamkronix)
 
 ***
+<br/>
+
+***
+
+## [Team Kronix (Free Bots Codes And Alot More)](https://discord.gg/teamkronix)
+<p align="center"> <a href="https://discord.gg/teamkronix"><img src="https://discord.com/api/guilds/1063452003910553731/widget.png?style=banner2"></a> </p>
+
+***
+
 <p align="center">
   <b>Stuff that I am currently learning :</b>
   <br><br>
