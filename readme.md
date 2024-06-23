@@ -14,11 +14,10 @@
 - :telescope: Founder Of [**Team Kronix**](https://discord.gg/teamkronix)
 - :telescope: Youtube [**iShowKronix**](https://www.youtube.com/@kronixx2077)
 - :telescope: Founder & Developer Of [**RareRabbit**](https://discord.com/oauth2/authorize?client_id=1242460333025787926)
-<br/>
 
 ***
 
-## [            Team Kronix (Free Bots Codes And Alot More)](https://discord.gg/teamkronix)
+<p align="center"> [Team Kronix (Free Bots Codes And Alot More)](https://discord.gg/teamkronix) </p>
 <p align="center"> <a href="https://discord.gg/teamkronix"><img src="https://discord.com/api/guilds/1063452003910553731/widget.png?style=banner2"></a> </p>
 
 ***
