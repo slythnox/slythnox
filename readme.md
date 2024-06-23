@@ -7,12 +7,7 @@
     </p>
   </div>
 </div>
-***
-<p align="center">
-  <a href="https://discord.gg/team-kronix-1063452003910553731" target="_blank"> 
-    <img src="https://discordapp.com/api/guilds/1063452003910553731/widget.png?style=banner2" alt="Discord Banner"/>
-  </a>
-</p>
+
 ***
 <div align="center">
 <img src="https://discord.c99.nl/widget/theme-2/747321055319949312.png">
