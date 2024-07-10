@@ -31,13 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <br><br>
-  <b> - :seedling: Stuff that I know ( Completely / Partially ) :</b>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <br><br>
+
   <b> - :seedling: Software and tools that I regularly / frequently use :</b>
   <br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="40" height="40"/>
