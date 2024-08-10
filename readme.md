@@ -1,13 +1,12 @@
+<div align="center">
 <div style="display: flex; align-items: center;">
-  <img align="right" src="https://media.discordapp.net/attachments/1182765350501228624/1182967638306082816/feature1.png?ex=66729bf7&is=66714a77&hm=5de433c77d9d9ed96fd493eee83b4e677542225476cef665ddb46e5e6ba5a07b&=&format=webp&quality=lossless" alt="Animated GIF" width="225">
-  
-  <div>
+  <img align="right" src="[https://media.discordapp.net/attachments/1182765350501228624/1182967638306082816/feature1.png?ex=66729bf7&is=66714a77&hm=5de433c77d9d9ed96fd493eee83b4e677542225476cef665ddb46e5e6ba5a07b&=&format=webp&quality=lossless](https://github.com/akshew/image-hosting/blob/main/akshat.gif?raw=true)" alt="Animated GIF" width="225">
+ <div>
     <p>
       <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=800&color=EE5396&center=true&vCenter=true&random=true&width=600&height=101&lines=Hello!+I'm+Akshat!;Information+Technology+student;.°˖✧+Code+should+dazzle+as+much+as+it+delivers+✧˖°.;Passionate+about+learning+and+exploring+new+technologies.;Always+learning+new+things" alt="Typing Animation">
     </p>
   </div>
 </div>
-
 
 ***
 
@@ -17,25 +16,34 @@
 
 ***
 
+***
+
 <p align="center"> Team Kronix </p>
 <p align="center"> An Optimistic Community of Developers, Based around iShowKronix on youtube!, Endeavouring to Learn as we grow. </p>
 <p align="center"> <a href="https://discord.gg/teamkronix"><img src="https://discord.com/api/guilds/1063452003910553731/widget.png?style=banner2"></a> </p>
 
 ***
 
-<p align="center">
-  <b> - :seedling: Stuff that I am currently learning :</b>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <br><br>
+## 🌱 Stuff that I am currently learning :
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com)
+[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![CSS](https://img.shields.io/badge/css-%23239120.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
 
-  <b> - :seedling: Software and tools that I regularly / frequently use :</b>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodemon/nodemon-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
-</p>
+## 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=akshew&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=akshew&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshew&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshew&bg_color=00000000&color=ffffff&line=00bfff&point=1e90ff&area=true&hide_border=true" alt="Activity Graph">
+
+## 🧳 Visitor Count
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=akshew.akshew)
+<img src="https://komarev.com/ghpvc/?username=devuuuxd" alt="akshew" />
+
+## 💬 Let's Connect
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kronixx2077)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshew)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/747321055319949312)
+
+
+</div>
