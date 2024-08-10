@@ -1,6 +1,6 @@
 <div align="center">
 <div style="display: flex; align-items: center;">
-  <img align="right" src="[https://media.discordapp.net/attachments/1182765350501228624/1182967638306082816/feature1.png?ex=66729bf7&is=66714a77&hm=5de433c77d9d9ed96fd493eee83b4e677542225476cef665ddb46e5e6ba5a07b&=&format=webp&quality=lossless](https://github.com/akshew/image-hosting/blob/main/akshat.gif?raw=true)" alt="Animated GIF" width="225">
+  <img align="right" src="https://github.com/akshew/image-hosting/blob/main/akshat.gif?raw=true" alt="Animated GIF" width="225">
  <div>
     <p>
       <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=800&color=EE5396&center=true&vCenter=true&random=true&width=600&height=101&lines=Hello!+I'm+Akshat!;Information+Technology+student;.°˖✧+Code+should+dazzle+as+much+as+it+delivers+✧˖°.;Passionate+about+learning+and+exploring+new+technologies.;Always+learning+new+things" alt="Typing Animation">
