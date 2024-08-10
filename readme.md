@@ -30,20 +30,6 @@
     <a href="https://html.spec.whatwg.org"><img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
   </p>
 
-  <h3 align="center">📈 GitHub Stats</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=akshew&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=akshew&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshew&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshew&bg_color=00000000&color=ffffff&line=00bfff&point=1e90ff&area=true&hide_border=true" alt="Activity Graph">
-  </p>
-
-  <h3 align="center">🧳 Visitor Count</h3>
-  <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=akshew.akshew" alt="Visitor">
-    <img src="https://komarev.com/ghpvc/?username=akshew" alt="Profile Views">
-  </p>
-
   <h3 align="center">💬 Let's Connect</h3>
   <p align="center">
     <a href="https://youtube.com/@kronixx2077"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
