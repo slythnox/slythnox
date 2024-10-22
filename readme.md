@@ -7,7 +7,7 @@
   <hr style="border: 1px solid #EE5396; width: 80%;">
 
   <p><strong>🔭 Founder Of</strong> <a href="https://discord.gg/teamkronix">Team Kronix</a></p>
-  <p><strong>📹 YouTube</strong> <a href="https://www.youtube.com/@kronixx2077">iShowKronix</a></p>
+  <p><strong>📹 YouTube</strong> <a href="https://www.youtube.com/@ishowkronix">iShowKronix</a></p>
   <p><strong>💻 Founder & Developer Of</strong> <a href="https://top.gg/bot/1277525844319014955/vote">Eleven</a></p>
 
   <hr style="border: 1px solid #EE5396; width: 80%;">
