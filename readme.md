@@ -29,10 +29,6 @@
   </p>
 </div>
 
-## Activity Graph 📊
-[![akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshew&bg_color=000000&color=ffffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
-
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshew&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub Stats">
