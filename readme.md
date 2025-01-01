@@ -4,13 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=800&color=EE5396&center=true&vCenter=true&width=600&height=101&lines=Hello!+I'm+Akshat!;Information+Technology+Student;.°˖✧+Code+should+dazzle+as+much+as+it+delivers+✧˖°.;Always+learning+new+things" alt="Typing Animation">
   </div>
 
-  <hr style="border: 1px solid #EE5396; width: 80%;">
-
-  <p><strong>🔭 Founder Of</strong> <a href="https://discord.gg/teamkronix">Team Kronix</a></p>
-  <p><strong>📹 YouTube</strong> <a href="https://www.youtube.com/@ishowkronix">iShowKronix</a></p>
-  <p><strong>💻 Founder & Developer Of</strong> <a href="https://top.gg/bot/1277525844319014955/vote">Eleven</a></p>
-
-  <hr style="border: 1px solid #EE5396; width: 80%;">
 
   <h3 align="center">Team Kronix</h3>
   <p>An Optimistic Community of Developers, Based around iShowKronix on YouTube! Endeavouring to Learn as we grow.</p>
@@ -37,7 +30,7 @@
 </div>
 
 ## Activity Graph 📊
-[![Bread's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshew&bg_color=000000&color=ffffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshew&bg_color=000000&color=ffffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 ## 📈 GitHub Stats
