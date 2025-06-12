@@ -5,12 +5,6 @@
   </div>
 
 
-  <h3 align="center">Team Kronix</h3>
-  <p>An Optimistic Community of Developers, Based around iShowKronix on YouTube! Endeavouring to Learn as we grow.</p>
-  <a href="https://discord.gg/teamkronix">
-    <img src="https://discord.com/api/guilds/1063452003910553731/widget.png?style=banner2" alt="Team Kronix Discord">
-  </a>
-
   <hr style="border: 1px solid #EE5396; width: 80%;">
 
   <h3 align="center">🌱 Stuff that I am currently learning:</h3>
