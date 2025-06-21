@@ -14,29 +14,17 @@
 
 - 🎓 ECS undergrad @ **KIIT**
 - ⚙️ Working on **LLM integration** & personal AI tools
-- 🧠 Learning: `JavaScript`, `Python`, `MongoDB`, `HTML/CSS`
+- 🧠  Tech Behind My Projects: `JavaScript`, `Python`, `MongoDB`, `HTML/CSS`
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/js-black?style=flat-square&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/python-black?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/html5-black?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/css3-black?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshew&show_icons=true&hide_title=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshew&theme=transparent&hide_border=true" width="48%" />
-</p>
-
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshew&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshew&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshew&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshew&bg_color=00000000&color=ffffff&line=00bfff&point=1e90ff&area=true&hide_border=true" alt="Activity Graph">
+</div>
 ---
 
 ### 🔗 Connect
