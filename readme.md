@@ -26,17 +26,7 @@
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/css-%23239120.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Gemini-00C2CB?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
 </p>
-
----
-
-### 📌 Projects & Interests
-
-- 🤖 Personal AI Assistant with Gemini + n8n
-- 🎧 Co-Dev **Moon Music** bot across Discord
-- 🌐 Exploring full-stack development
-- ✨ Working on **aesthetic UIs** 
 
 ---
 
