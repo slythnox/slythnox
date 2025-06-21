@@ -34,9 +34,9 @@
 ### 📌 Projects & Interests
 
 - 🤖 Personal AI Assistant with Gemini + n8n
-- 🎧 Promoting **Moon Music** bot across Discord
+- 🎧 Co-Dev **Moon Music** bot across Discord
 - 🌐 Exploring full-stack development
-- ✨ Working on **aesthetic UIs** using Bolt.new
+- ✨ Working on **aesthetic UIs** 
 
 ---
 
