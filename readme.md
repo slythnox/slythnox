@@ -1,6 +1,6 @@
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=800&color=EE5396&center=true&vCenter=true&width=600&height=80&lines=Hey!+I'm+Akshat.;ECS+Student+@+KIIT.">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=800&color=EE5396&center=true&vCenter=true&width=600&height=80&lines=Hey!+I'm+Slythnox;CSE+Student.">
 </p>
 
 <!-- Matrix Background -->
@@ -12,7 +12,6 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 ECS undergrad @ **KIIT**
 - ⚙️ Working on **LLM integration** & personal AI tools
 - 🧠  Tech Behind My Projects: `JavaScript`, `Python`, `MongoDB`, `HTML/CSS`
 
