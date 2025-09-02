@@ -24,13 +24,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slythnox&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=slythnox&bg_color=00000000&color=ffffff&line=00bfff&point=1e90ff&area=true&hide_border=true" alt="Activity Graph">
 </div>
+
 ---
 
 ### 🔗 Connect
 
 <p align="center">
   <a href="https://github.com/slythnox"><img src="https://img.shields.io/badge/github-%23181717.svg?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://youtube.com/@kronixx2077"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white"></a>
   <a href="https://discord.com/users/747321055319949312"><img src="https://img.shields.io/badge/discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"></a>
 </p>
 
