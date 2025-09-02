@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About Me
 
-- ⚙️ Working on **LLM integration** & AI tools
-- 🧠  
-
+- Working on **LLM integration** & AI tools
+- My main language is Hindi but I also speak JavaScript sometimes 
+- Preference: pretty eyes thick thighs
 ---
 
 # 💻 Tech Stack:
