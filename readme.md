@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/slythnox/image-hosting/blob/main/home.png?raw=true" width="100%" alt="slythnox">
+  <img src="https://github.com/slythnox/image-hosting/blob/main/home.png?raw=true" width="70%" alt="slythnox">
 </p>
 
 <!-- Typing Intro -->
