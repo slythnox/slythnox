@@ -27,7 +27,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=slythnox&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=slythnox&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slythnox&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=slythnox&bg_color=00000000&color=ffffff&line=00bfff&point=1e90ff&area=true&hide_border=true" alt="Activity Graph">
 </div>
 
