@@ -1,26 +1,14 @@
 <div align="center">
 
-<img src="https://github.com/slythnox/image-hosting/blob/main/git.png?raw=true" width="100%" alt="image">
+<img src="https://github.com/slythnox/image-hosting/blob/main/gslythnox.png?raw=true" width="100%" alt="image">
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=C6FF4D&center=true&vCenter=true&width=800&lines=SLYTHNOX+%7C;BUILDING+BACKEND+SYSTEMS;LLM+INTEGRATION+%26+AUTOMATION;STATUS%3A+ONLINE" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=C6FF4D&center=true&vCenter=true&width=800&lines=SLYTHNOX;BUILDING+BACKEND+SYSTEMS;LLM+INTEGRATION+%26+AUTOMATION" />
 
 </div>
 
 ---
-
-## ACTIVE OPERATIONS
-
-```txt
-[✓] LLM Integration
-[✓] AI Tool Development
-[✓] Backend Architecture
-[✓] API Engineering
-[✓] Database Systems
-[✓] Experimental Agents
-```
-
 ## CAPABILITIES
 
 <div align="center">
