@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=C6FF4D&center=true&vCenter=true&width=800&lines=SLYTHNOX+%7C+DEVELOPER+CONSOLE;BUILDING+BACKEND+SYSTEMS;LLM+INTEGRATION+%26+AUTOMATION;STATUS%3A+ONLINE" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=C6FF4D&center=true&vCenter=true&width=800&lines=SLYTHNOX+%7C;BUILDING+BACKEND+SYSTEMS;LLM+INTEGRATION+%26+AUTOMATION;STATUS%3A+ONLINE" />
 
 </div>
 
@@ -21,7 +21,7 @@
 [✓] Experimental Agents
 ```
 
-## SYSTEM CAPABILITIES
+## CAPABILITIES
 
 <div align="center">
 
@@ -64,25 +64,9 @@
 
 ---
 
-## DEPLOYMENTS
-
-```txt
-PROJECT ELEVEN      → COGNITIVE SYSTEM
-NAPSTER             → AI ASSISTANT PLATFORM
-BACKEND SERVICES    → ACTIVE
-EXPERIMENTAL LABS   → IN DEVELOPMENT
-```
-
----
-
-## NETWORK ENDPOINTS
+## Connect
 
 <div align="center">
-
-<a href="https://github.com/slythnox">
-<img src="https://img.shields.io/badge/GITHUB-ONLINE-C6FF4D?style=for-the-badge">
-</a>
-
 <a href="https://discord.com/users/747321055319949312">
 <img src="https://img.shields.io/badge/DISCORD-CONNECT-C6FF4D?style=for-the-badge">
 </a>
@@ -90,14 +74,6 @@ EXPERIMENTAL LABS   → IN DEVELOPMENT
 </div>
 
 ---
-
-<div align="center">
-
-```txt
-SYSTEM STATUS : STABLE
-BUILD         : PRODUCTION
-MAINTAINER    : SLYTHNOX
-```
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=slythnox.slythnox" />
 
